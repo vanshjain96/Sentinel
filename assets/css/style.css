@@ -1,6 +1,6 @@
 
 body{
-    background: #7986CB;
+    background: rgb(73, 73, 73);
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
@@ -240,6 +240,10 @@ body{
     line-height: 20px;
     color: #5a6f7e;
     opacity: .8;
+}
+
+.team-section {
+    margin-top: 150px;
 }
 
 .about-team {
