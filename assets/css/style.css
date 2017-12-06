@@ -256,8 +256,8 @@ body{
 .team-tile {
     position: relative;
     display: inline-block;
-    height: 120px;
-    background-color: #ffffff;
+    height: 150px;
+    background-color: #f6f6f6;
     width: 120px;
     margin: 20px;
     border-radius: 120px;
