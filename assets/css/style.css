@@ -1,6 +1,6 @@
 
 body{
-    background: #eef2f5;
+    background: #EF5350;
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
@@ -12,7 +12,7 @@ body{
 
 .slide {
     position: relative;
-    background-color: #3d547d;
+    background-color: #EF5350;
     width: 1080px;
     margin: 0 auto;
     height: 780px;
@@ -86,7 +86,7 @@ body{
 }
 
 .info {
-    background: #a73333;
+    background: #EF5350;
 }
 
 .info .section-image {
