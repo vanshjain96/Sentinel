@@ -58,7 +58,9 @@ body{
 .icon i {
     line-height: 32px;
 }
-
+ #linkedin {
+         background-color: #b9d2e5;
+}
 
 #facebook {
     background-color: #f44336;
