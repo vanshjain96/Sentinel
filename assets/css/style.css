@@ -39,9 +39,9 @@ body{
     top: 30px;
 }
 .logofont {
-    height: 20px;
-	background-color:#efefef;
-    width: auto;
+    height: 30px;
+	
+    width: 80px;
     position: absolute;
     left: 100px;
     top: 50px;
