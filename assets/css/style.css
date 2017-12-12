@@ -40,6 +40,7 @@ body{
 }
 .logofont {
     height: 20px;
+	background-color:#efefef;
     width: auto;
     position: absolute;
     left: 100px;
