@@ -38,7 +38,13 @@ body{
     left: 50px;
     top: 30px;
 }
-
+.logo font {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    left: 80px;
+    top: 30px;
+}
 .social {
     position: absolute;
     right: 10px;
