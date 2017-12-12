@@ -6,7 +6,7 @@ body{
 }
 
 .content {
-    background: #efefef;
+    background: #B2DFDB;
     z-index: 10;
     padding-bottom: 100px;
     padding-top: 20px;
@@ -14,7 +14,7 @@ body{
 
 .slide {
     position: relative;
-    background-color: #EF5350;
+    background-color: #80DEEA;
     width: 1300px;
     margin: 0 auto;
     height: 780px;
