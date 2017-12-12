@@ -112,17 +112,6 @@ body{
     background: #EF5350;
 }
 
-.info .section-image {
-    width: 814px;
-    height: 519px;
-    background-image: url("../images/lines@2x.png");
-    background-size: 814px;
-    position: absolute;
-    left: 50%;
-    top: 0;
-    margin: 0 0 0 -407px;
-}
-
 .section-bg-area {
     position: absolute;
     background-color: #fff;
