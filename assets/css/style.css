@@ -289,6 +289,13 @@ body{
 	font: normal 36px 'Cookie', cursive;
 	margin: 0 0 10px;
 }
+.logo {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
 
 .footer-distributed h3 span{
 	color:  #5383d3;
